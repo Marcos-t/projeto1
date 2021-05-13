@@ -11,3 +11,8 @@ https://www.figma.com/file/EQFnkGOV8RdFwdYNh31Bc0/Segucheckr?node-id=0%3A1 (medi
 
 FUNCIONALIDADES DO PROJETO
 Validar e assegurar, para os clientes, canais de comunicação oficiais de sites de compras online.
+
+INTEGRANTES:
+JOAO PAULO DA SILVA CASTRO
+MARCOS FRANÇA
+VITOR FLORES
