@@ -1,6 +1,5 @@
 # segurcheker
-
-Instruir a sociedade sobre compras onlines e as suas formas de segurança. Alem de ajuda e informar os clientes sobre a validação do site onde esta comprando
+OBJETIVOS DO PROJETO: Instruir a sociedade sobre compras onlines e as suas formas de segurança. Alem de ajuda e informar os clientes sobre a validação do site onde esta comprando
 
 LINK DA PROTOTIPAGEM
 https://docs.google.com/document/d/1UHKYSKjaNpidyfb-JHfbloBlAR9U8CXbisMUpnYZkuc/edit?usp=sharing (alta fidelidade)
