@@ -2,12 +2,9 @@
 OBJETIVOS DO PROJETO: desenvolver um produto de software que alerte os usúarios sobre compras onlines.
 
 
-LINK DA PROTOTIPAGEM
-https://docs.google.com/document/d/1UHKYSKjaNpidyfb-JHfbloBlAR9U8CXbisMUpnYZkuc/edit?usp=sharing (alta fidelidade)
+PROTOTIPAGEM
+![image](https://user-images.githubusercontent.com/82852402/118904057-708e4a80-b8ef-11eb-8a30-28df4f126ffc.png)
 
-https://picesupa.invisionapp.com/freehand/Segucheckr-u0XzaAWG9 (baixa fidelidade)
-
-https://www.figma.com/file/EQFnkGOV8RdFwdYNh31Bc0/Segucheckr?node-id=0%3A1 (media fidelidade)
 
 FUNCIONALIDADES DO PROJETO
 Validar e assegurar, para os clientes, canais de comunicação oficiais de sites de compras online.
