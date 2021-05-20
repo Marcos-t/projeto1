@@ -3,7 +3,18 @@ OBJETIVOS DO PROJETO: desenvolver um produto de software que alerte os usúarios
 
 
 PROTOTIPAGEM
+
+
 ![image](https://user-images.githubusercontent.com/82852402/118904057-708e4a80-b8ef-11eb-8a30-28df4f126ffc.png)
+
+
+![image](https://user-images.githubusercontent.com/82852402/118904085-83088400-b8ef-11eb-81b4-e171994061aa.png)
+
+
+![image](https://user-images.githubusercontent.com/82852402/118904097-8a2f9200-b8ef-11eb-82cf-63b6270cd367.png)
+
+
+![image](https://user-images.githubusercontent.com/82852402/118904104-90be0980-b8ef-11eb-94fd-db589da33ade.png)
 
 
 FUNCIONALIDADES DO PROJETO
