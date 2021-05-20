@@ -14,8 +14,6 @@ PROTOTIPAGEM
 ![image](https://user-images.githubusercontent.com/82852402/118904097-8a2f9200-b8ef-11eb-82cf-63b6270cd367.png)
 
 
-![image](https://user-images.githubusercontent.com/82852402/118904104-90be0980-b8ef-11eb-94fd-db589da33ade.png)
-
 
 FUNCIONALIDADES DO PROJETO
 Validar e assegurar, para os clientes, canais de comunicação oficiais de sites de compras online.
